@@ -6,11 +6,11 @@
 ### Mobile and Web App Proffy
 
 #### How to execute the web application 
-1. Go to the paste web
+1. Go to the directory web
 2. run command : `yarn start` or if you dont have yarn use `npm start`
 3. for using app with server
 
-      3.1. Go to the paste server
+      3.1. Go to the directory: server
   
       3.2. run command : `yarn start` or if you dont have yarn use `npm start` 
 
@@ -21,7 +21,7 @@
   
 2. Install expo in our mobile phone
 
-      2.1 Go to the paste mobile
+      2.1 Go to the directory: mobile
   
       2.2 run command : `yarn start` or if you dont have yarn use `npm start`
   
@@ -29,7 +29,7 @@
   
 4. for using app with server 
 
-      4.1. Go to the paste server
+      4.1. Go to the directory: server
   
       4.2. run command : `yarn start` or if you dont have yarn use `npm start` 
 
